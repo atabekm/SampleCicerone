@@ -1,8 +1,10 @@
-package com.example.samplecicerone
+package com.example.samplecicerone.firstscreen
 
 import android.content.Intent
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.example.samplecicerone.R
+import com.example.samplecicerone.secondscreen.SecondActivity
 import kotlinx.android.synthetic.main.activity_first.*
 
 class FirstActivity : AppCompatActivity() {
